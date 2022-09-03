@@ -1,6 +1,6 @@
 //creating a pyramid using iostream
 #include <iostream>
-//using standard lib
+
 using namespace std;
  int main()
  {
